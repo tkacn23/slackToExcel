@@ -18,9 +18,9 @@ public class AppTest
     	int a=1;
     	int b=2;
     	int expected=3;
-    	int result=App.sum(a, b);
     	
-    	assertEquals(expected, result);
+    	
+    	
     	
     }
 }
